@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sabbath truly sanctified, or, Godly rules and directions for all sincere Christian professors, for the strict observation of the Lords Day before, at, and after the publike exercises of the church. With an order from the House of Commons, for the due observing the Sabbath-Day. As also, a cataloge of the fearfull judgements that have happenned to wilfull infringers, and profane and irreligious Sabbath-breakers. By A.B. Remember thou keep holy the Sabbath day.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76675</idno>
+            <idno type="STC">Wing B28</idno>
+            <idno type="STC">Thomason E26_15</idno>
+            <idno type="STC">ESTC R6427</idno>
+            <idno type="EEBO-CITATION">99872988</idno>
+            <idno type="PROQUEST">99872988</idno>
+            <idno type="VID">154992</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154992)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E26[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sabbath truly sanctified, or, Godly rules and directions for all sincere Christian professors, for the strict observation of the Lords Day before, at, and after the publike exercises of the church. With an order from the House of Commons, for the due observing the Sabbath-Day. As also, a cataloge of the fearfull judgements that have happenned to wilfull infringers, and profane and irreligious Sabbath-breakers. By A.B. Remember thou keep holy the Sabbath day.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Ian. 31. in the yeer, MDCXLV. [1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday --  Early works to 1800.</term>
+               <term>Sunday legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154992:1"/>
+            <pb facs="tcp:154992:1" rendition="simple:additions"/>
+            <p>THE SABBATH TRULY SANCTIFIED, Or, GODLY RULES And Directions for all Sincere Chriſtian Profeſſors, for the ſtrict obſervation of the LORDS DAY Before, at, and after the publike Exerciſes of the <hi>CHURCH.</hi> With an Order from the Houſe of Commons, for the due obſer<g ref="char:EOLhyphen"/>ving the Sabbath-Day.</p>
+            <p>
+               <hi>As alſo,</hi> A Cataloge of the fearfull Judgements that have hap<g ref="char:EOLhyphen"/>penned to wilfull infringers, and profane and <hi>Irreligious Sabbath-breakers.</hi>
+            </p>
+            <p>By A. B. <hi>Remember thou keep holy the Sabbath day.</hi>
+            </p>
+            <p>LONDON, Printed <hi>Ian.</hi> 31. in the yeer, MDCXLV.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:154992:2"/>
+            <head>Die Sabbath. 22. Mar.</head>
+            <p>IT is Ordered, that the Aldermen and Citizens that ſerve for the City of <hi>London,</hi> intunate unto the Lord Maior of <hi>London,</hi> from this Houſe, that the Sta<g ref="char:EOLhyphen"/>tutes for the due obſerving of the Sabbath be put in execution, and that the like intimation be made to the Iuſtices of the Peace in all Counties of <hi>England</hi> and <hi>Wales.</hi>
+            </p>
+            <closer>
+               <signed>Hen. Elſynge. Cler. Dom. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154992:2"/>
+            <head>THE SABBATH DULY SANCTIFIED.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LMIGHTY GOD (Creator of all Mankind) will have himſelf Worſhipped, not only in a private manner, by private per<g ref="char:EOLhyphen"/>ſons, and families: but alſo in a more pub<g ref="char:EOLhyphen"/>lick ſort of all the Godly joyned together in a Viſible Church, that by this means he may be known not only to be God, and Lord of every ſingular perſon: but alſo of the Crea<g ref="char:EOLhyphen"/>tures of the whole univerſall World, and to that purpoſe, hath appointed one particular day for his own pro<g ref="char:EOLhyphen"/>per ſervice, which he hath called the <hi>Sabbath,</hi> or <hi>Lords Day,</hi> and with a ſpeciall <hi>Memento,</hi> hath commanded the ſame to be ſanctifi<g ref="char:EOLhyphen"/>ed, and kept holy, which conſiſts in two things.</p>
+            <p>
+               <hi>Firſt, in reſting from all ſervile and common buſineſſe pertaining to our naturall life.</hi>
+            </p>
+            <p>
+               <hi>Secondly, in conſecrating that reſt wholly to the ſervice of God, and the uſe of theſe holy meanes which belong to our ſpirituall life.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>For the Firſt.</head>
+               <p n="1">1. The ſervile and common works from which we are to ceaſe, are<note place="margin">Exod. 31. 29. 30.</note> generally all civill works, from the leaſt to the greateſt: more parti<g ref="char:EOLhyphen"/>cularly,</p>
+               <p>Firſt, from all the works of our calling, though it were reaping in<note place="margin">Exo. 31. 12, 13.</note> the time of Harveſt.</p>
+               <p>Secondly from carrying burthens, as Carryers doe: or riding a<g ref="char:EOLhyphen"/>broad<note place="margin">Exo. 34. 15, &amp;c.</note>
+                  <pb facs="tcp:154992:3"/> for profit, or for pleaſure: God hath commanded, That the<note place="margin">Exo. 34. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> Beaſts ſhould reſt on the Sabbath day, becauſe all occaſion of travel<g ref="char:EOLhyphen"/>ling or labouring with them ſhould be cut off from man. God gives<note place="margin">Joh. 17. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 22. 27. Deut. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</note> them that day a reſt and he that without neceſsitie, deprives them of their reſt on the Lords Day; the groans of the poor tyred beaſts ſhall in the day of the Lord, riſe up in judgement againſt him; Like<g ref="char:EOLhyphen"/>wiſe<note place="margin">Rom. 8. 22 Deut. 2. 4 1. Cor. 9</note> ſuch as ſpend the greateſt part of the day in trimming, and pain<g ref="char:EOLhyphen"/>ting, and pampering of themſelves, like <hi>Iezebells,</hi> doing the Devills worke upon Gods day.</p>
+               <p>Thirdly, from keeping of Faires or Markets, which for the moſt<note place="margin">Neh. 13. 5. 16. 9.</note> part, God puniſheth with peſtilence, fire, and ſtrange flood<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>Fourthly, from ſtudying any Books of Science, but the holy Scrip<g ref="char:EOLhyphen"/>tures, and Divinity; for our ſtudy muſt be, to be raviſhed in ſpirit<note place="margin">Apo. 1. 19.</note> upon the Lords day, In a word thou muſt on that day ceaſe in thy calling to doe thy work: that the Lord by his calling, may doe his worke in thee; for whatſoever is gotten by common working on this day, ſhall never be bleſſed of the Lord; but it will prove like <hi>A<g ref="char:EOLhyphen"/>chans</hi> gold, which being got contrary to the Lords Commandment, brought the fire of Gods curſe upon all the reſt which hee had law<g ref="char:EOLhyphen"/>fully gotten. And if Chriſt ſcourge them out, as Theeves, who bought and ſould in his Temple (which was but a Ceremony ſhort<g ref="char:EOLhyphen"/>ly to be abrogated) is it to be thought, that hee will never ſuffer thoſe to eſcape unpuniſhed, who (contrary to his Commandement) buy and ſell on the Sabbath day, which is his perpetuall Law? Chriſt calleth ſuch ſacrilegious Theeves, and as well may they ſteale the Communion Cup from the Lords Table, as ſteale from God the chiefeſt part of the Lords Day to conſume it in their own luſts; ſuch ſhall one day finde the judgement of God, heavier then the opini<g ref="char:EOLhyphen"/>ons of men.</p>
+               <p>
+                  <hi>Fiftly,</hi> from all Recreations and ſports, which at other times are lawfull: for if lawfull works be forbidden on this day, much more lawfull ſports, which doe more ſteale away our affections from the<note place="margin">Iſa. 58. 13. 14.</note> contemplation of heavenly things, then any bodily worke or la<g ref="char:EOLhyphen"/>bour. Neither can there be unto a man (that delighteth in the Lord) any greater delight or recreation, than the ſanctifying of the Lords<note place="margin">Pſal. 37. 4</note> day. For can there be any greater joy for a perſon condemned, then to come to his Princes houſe, to have his pardon ſealed? for one that is deadly ſick, to come to a Phyſition, that can cure him? or for a Prodigall child that fed on the husks of ſwine, to be admitted to
+<pb facs="tcp:154992:3"/> eate the bread of life at his fathers table? Or for him, who fears for ſinne the tydings of death, to come to heare from God the aſſurance of eternall life? if thou wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> allow thy ſelfe or thy ſervant Recreation, allow it in the ſix dayes that are thine, not on the Lords day, which is neither thine, nor others; No bodily Recreation is therefore to be uſed on this day; But ſo farre as it may helpe the ſoul, to doe more cheerfully the ſervice of God.</p>
+               <p>Sixtly, from groſſe feeding, liberall drinking of wine, or ſtrong drinke,<note place="margin">Eph. 5. 18 19. Ro. 12. 11 Deut. 28. 47. Iſai. 58. 13</note> which may make us either drowſie, or unapt to ſerve God with our hearts and mindes.</p>
+               <p>Seventhly, from all talking about worldly things, which hindereth the ſanctifying of the Sabbath, more than working, ſeeing one may work a<g ref="char:EOLhyphen"/>lone, but cannot talke but with others.</p>
+               <p>He that keeps the Sabbath only by reſting from his ordinary worke, keeps it but as a beaſt; But reſt on this day, is ſo farre commanded to Chriſtians, as it is a help to ſanctification; and labour ſo farre forbidden, as it is an impe<g ref="char:EOLhyphen"/>diment to the outward and inward worſhip of Almighty God.</p>
+               <p>If then theſe Recreations, which are lawfull at other times, are on the ſab<g ref="char:EOLhyphen"/>bath not allowed, much more thoſe that are altogether at all times unlawful; who without mourning can indure to ſee Chriſtians keep the Lords day, as if they celebrated a Feaſt rather to <hi>Bacchus,</hi> then to the honor of the Lord Jeſus, the Saviour and Redeemer of the world? For having ſerved God but<note place="margin">1 Cor. 10. 7.</note> an houre, with outward ſhew, they ſpend the reſt of the Lords day in ſitting downe to eate and drinke, and riſing up to play, firſt balaſting their bellies with eating and drinking; and then feeding their luſts with playing, and dan<g ref="char:EOLhyphen"/>cing:<note place="margin">Exod. 31. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. 19. Aug. in tic Pſal. 91.</note> Againſt which Profanation, all holy Divines, both old and new, have in their times moſt bitterly inveighed, inſomuch that <hi>Auguſtine</hi> affirmeth, that it was better to plough, then to dance upon the Sabbath day.</p>
+            </div>
+            <div n="2" type="part">
+               <head>For the Second.</head>
+               <p n="2">2. The Conſideration of the Sabbaths reſt, conſiſts in performing three ſorts of duties; Firſt, <hi>Before.</hi> Secondly, <hi>At.</hi> Thirdly, <hi>After</hi> the publike ex<g ref="char:EOLhyphen"/>erciſes of the Church.</p>
+               <p>
+                  <hi>The duties to be performed before the publike exerciſes of the Church,</hi> are;</p>
+               <p n="1">1. To give over working be times on the Eve, that thy body may be the<note place="margin">Adoc. 2. 3.</note> more refreſhed, and thy minde the better fitted to ſanctifie the Sabbath on the next day; for want of this preparation, thy ſelf and thy ſervants, being tyred with Labour and watching the night before, are ſo heavy, that when you ſhould be ſerving God, and hearing what his Spirit ſaith unto the Church for your ſouls inſtruction: you cannot hold up your heads for ſleep<g ref="char:EOLhyphen"/>ing: to the diſhonour of God, the offence of the Church, and the ſhame of your ſelves, therefore the Lord commands us not only to keep holy, but alſo to remember aforehand the Sabbath day; to keep it holy by preparing our hearts, and removing all buſineſſe that might hinder us to conſecrate it,<note place="margin">Iſa. 56. &amp; 51. 13, &amp;c.</note> as a glorious day unto the Lord; who in the other Commandments, doth but ei<g ref="char:EOLhyphen"/>ther bid, or forbid; but doth both in this Commandement, and that with a ſpe<g ref="char:EOLhyphen"/>ciall <hi>Memorandum,</hi> As if a Maſter ſhould charge his ſervant to look well un<g ref="char:EOLhyphen"/>to ten things of great Truſt, but to have a more ſpeciall care, to remember one of thoſe tenn, for divers weighty reaſons: ſhould not a faithfull ſervant that lov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s his Maſter, ſhew a more ſpeciall care unto that thing above all o<g ref="char:EOLhyphen"/>ther buſineſſes.</p>
+               <pb facs="tcp:154992:4"/>
+               <p>Thus <hi>Moſes</hi> taught the people overnight to remember the <hi>Sabbath,</hi> and it<note place="margin">Exo. 16. 23, &amp;c.</note> was a holy cuſtom among our forefathers, when at the ringing to prayer on the Eve before, the husbandman would give over his labour in the field, and the tradeſman his worke in the ſhop, and goe to evening prayer in the Church, to prepare their ſoules, that their mindes might more cheerfully attend Gods worſhip on the Sabbath day.</p>
+               <p n="2">2. To poſſeſſe that night thy veſſell in holineſſe, and honor: that thou maiſt<note place="margin">Exo. 9. 15 1 Cor. 7. 5 Gen. 35. 2 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sam. 31. 5. Exo. 19. 16. Pſa. 9. 22. Ec. 4. 17.</note> preſent thy ſoul more purely in the ſight of God the next morning.</p>
+               <p n="3">3. To riſe up early in the morning, on the Sabbath-day: Be carefull therefore to riſe ſooner on this day, than on other days; by how much the ſervice of God is to be preferred before all earthly buſineſſes; For there is no maſter to ſerve ſo good as God, and in the end, no works ſhall be better rewarded then his ſervice.</p>
+               <p n="4">4. When thou art up, conſider with thy ſelf, what an impure ſinner thou art, and into what an holy place thou goeſt to appeare before the moſt holy God, who ſeeth thy heart, and hatethall impurity and hypocriſy. Examine thy ſelf therefore before thou goeſt to Church, what grievous ſins thou haſt committed the week paſt, confeſs them unto God, and earneſtly pray for the pardon, and forgiveneſſe of them, and ſo reconcile thy ſelf with God in Chriſt, Renew thy Vows, to walk more conſcionably, and pray for an in<g ref="char:EOLhyphen"/>creaſe of thoſe graces which thou haſt, and a ſupply of thoſe which thou wanteſt; But eſpecially pray that thou maiſt have grace to hear the Word of God read, and Preached with profit, and that thou maiſt recive the holy Sacrament with comfort (if it be Communion day) that God by his holy Spi<g ref="char:EOLhyphen"/>rit, would aſſiſt the Preacher, to ſpeak ſomthing that may kill thy ſinne, and and comfort thy ſoul, which that thou maiſt doe, poure forth thy prayers to Almighty God, who upon thine unfained repentance, will enable thee, and hear thy earneſt and moſt humble requeſt.</p>
+               <p>Now in the Name of Almighty God (who reſted having created heaven, and earth) and of his eteanall Son Jeſus, the Redeemer of his Church, who ſhall ſhottly come on the dreadfull day of doom, to judge all men according<note place="margin">Act. 12. 31 Ro. 2. 12. 1 Theſ. 2. 8.</note> to the obedience, which they have ſhewed to his Commandments: I exhor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, nay I require thee, who readeſt theſe words, as thou wilt anſwer before the face of Chriſt and his holy Angels, at that day, that thou better weigh, and conſider, whether Dancing, Stage-playing, Masking, Carding, Diceing, Ta<g ref="char:EOLhyphen"/>bling, Ches-playing, Bowling, Shooting, Beare-baiting, Carouſing, Tipling, and ſuch other fooleries of Robin-hood Morrice-dances, Wakes, and May<g ref="char:EOLhyphen"/>games be exerciſes that God will bleſſe and allow on the Sabbath day. And ſeeing no Action ought to be done that day, but ſuch as whereby wee either bleſſe God, or look to receive a bleſſing from God, how dareſt thou do theſe things on that bleſſed day, on which thou dareſt not to pray to God, to be<g ref="char:EOLhyphen"/>ſtow a bleſſing on it to thy uſe? Hear this, and tremble at this, O profane youth of a profane age! O heart all frozen, and voide of the feeling of the grace of God; And having every day in ſix, every hour in every day, every minute in every hour, ſo taſted the ſweet mercy of thy God in Chriſt, without which thou hadſt periſhed every moment, yet canſt not finde in thy corrupt and irreligious heart, to ſpend in thy Maſters ſervice that one day of the week, which he hath reſerved for his owne praiſe and worſhip. Let men in defence of their profaneſs, object what they will, and anſwer what the De<g ref="char:EOLhyphen"/>vill
+<pb facs="tcp:154992:4"/> puts in their mouthes: yet I would wiſh them to remember, that ſeeing it is an antient tradition in the Church, that the Lords ſecond comming ſhall be upon the Lords day, how little joy they ſhould have, to bee overtaken in<note place="margin">Lactan .l. 7. cap. 1.</note> thoſe carnal ſports, to pleaſe themſelves; when their Maſter ſhould find them in ſpirituall exerciſes ſerving him. The profaneſt wretch, would then wiſh rather to be taken kneeling at prayers in the Church, then skipping like a Goat in a dance. If this cannot move, yet I would wiſh our impure Gallants to remember, that while they thus dance on the Lords day (contrary to the Lords Commandement) they doe but dance about the Pits brink, and they know not which of them ſhall firſt fall therein; whereinto being once fallen, without repentance, no greatneſſe can exempt them from the vengeance of that great God, whoſe Commandment (contrary to their knowledge and conſcience) they doe thus preſumptuouſly tranſgreſſe. If then Gods Com<g ref="char:EOLhyphen"/>mandments cannot prevaile with thee, nor Gods Word adviſe thee; Then let theſe enſuing Examples of Gods Judgments on Sabbath-breakers, deterre thee from the wilfull profanation of the Lords day.</p>
+               <p>The Lord who is otherwiſe the God of mercy) commanded <hi>Moſes</hi> to ſtone to death the man, who (of a preſumptuous mind) would openly goe to ga<g ref="char:EOLhyphen"/>ther<note place="margin">Num. 53. 2.</note> ſticks on the Sabbath-day; The fact was ſmall: true, but the ſin was the greater, that (upon ſo ſmall an occaſion) would preſume to breake ſo great, a Commandement.</p>
+               <p>
+                  <hi>Nicanor</hi> offering to fight againſt the Jewes on the Sabbath day, was ſlaine himſelf, and 35000. of his men.</p>
+               <p>A husbandman grinding corne upon the Lords day, had his Mill burned to aſhes.</p>
+               <p>Another carrying corn on this day, had his barne, and all his corn therein burnt with fire from heaven, the next night after.</p>
+               <p>A certain Nobleman, profaning the Sabbath uſually in hunting, had a child like a Dog, and with ears and chaps, and crying like a hound.</p>
+               <p>A flax-wife, working with her maids on the Lords day, it ſeemed unto them that fire iſſued out of the flax, but did no harm, the nex Sabbath it fired indeed, doing little harm; but not taking warning by this, the 3. Sunday, it a<g ref="char:EOLhyphen"/>gain took fire, burnt the houſe, ſcorched the woman, and two children, where<g ref="char:EOLhyphen"/>of they died the next day: but, by the mercy of God, a childe in the cradle was taken out of the fire alive, and unhurt</p>
+               <p>At a Beare-baiting in <hi>France,</hi> on the Sabbath, 300. were ſlaine outright, be<g ref="char:EOLhyphen"/>ſides divers lamed, and grievouſly wounded.</p>
+               <p>A Miller dwelling in a Town called <hi>Hoult,</hi> neer <hi>Weſtcheſter,</hi> grinding corn on the Lords day, <hi>An.</hi> 1588. was found dead in his Mill by his wife, on the Munday following, his ears, noſe, and lipps eaten off with Ratts.</p>
+               <p>On the 13. <hi>Ian.</hi> 1582, being the Lords day, the ſcaffolds fell in <hi>Paris Gar<g ref="char:EOLhyphen"/>den,</hi> under the people at a Beare-baiting, ſo that eight were ſuddenly ſlain,<note place="margin">Stowes a bridg. An. 1582</note> and a great number hurt and maimed. A warning to ſuch, who take more pleaſure, on the Lords day, to bee on a Theater, beholding carnall ſports, then to be in the Church, ſerving God with the ſpirituall workes of Piety.</p>
+               <p>At a Bull-baiting in the Popes dominions, 1603. the Bull breaking from the Ring, killing a woman, and ſo <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>righted another woman, being great with child, that ſhe immediately fell in labour, and dyed with her child alſo.</p>
+               <pb facs="tcp:154992:5"/>
+               <p>Many fearfull examples of Gods Judgements by fire have in our dayes been ſhewed upon divers Towns, where the prophanation of the Lords day hath been openly countenanced.</p>
+               <p>
+                  <hi>Stratford</hi> upon <hi>Aven,</hi> was twice on the ſame day twelve-mon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th (being the Lords Day) almoſt conſumed with fire, chiefly for profaning the Lords Sabbath, and for contemning his Word in the mouth of his faithfull Prea<g ref="char:EOLhyphen"/>chers and Miniſters.</p>
+               <p>
+                  <hi>Torverton</hi> in Devonſhire (whoſe Remembrance makes my heart bleed) was oftentimes admoniſhed by her Godly Preacher, That God would bring ſome heavy judgement on the Towne, for their horrible profanation of the Lords day, occaſioned chiefly by the Market on the day following. Not long after his death, on the 3. of <hi>Aprill.</hi> 1598. GOD (in leſſe then half an hour) conſumed with a ſudden and fearfull fire, the whole Towne, except only the Church, the Court-houſe, and the Almeſ-houſe, or a few poor peoples dwel<g ref="char:EOLhyphen"/>lings, where a man might have ſeen 400. dwelling-houſes all at once on fire, and about 50. perſons conſumed with the ſame, and lately on the fift of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> 1612. the whole town was again fired, and conſumed except ſome thir<g ref="char:EOLhyphen"/>ty houſes of poor people with the School-houſe, and Almes-houſes: they are blinded, who ſee not in this the finger of God, God grant them grace to change their market-day, and to remove all occaſion of profancing the Lords Day, Let other Townes remember the Tower of <hi>Siloe,</hi> Luk. 13. 4. and take warning<note place="margin">Luk. 13. 4</note> by their neighbors chaſtiſements, and fear Gods threatnings, <hi>Ier.</hi> 17. 27. and beleeve Gods Prophets, if they will proſper, 1 <hi>Chron.</hi> 20. 20.</p>
+               <p>Many other examples of Gods Judgements, (as the fire lately at <hi>Oxford</hi>) might be alledged, but if theſe are not ſufficient to terifie thy heart from the wilfull profanation of the Lords day, It may be (if thou proceed in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy pro<g ref="char:EOLhyphen"/>fanation) the Lord will make thee the next example, to teach others to keep his Sabbaths better. Wherefore againe, and againe, in the name of the Lord I exhort thee; Nay I conjure thee, as thou tendereſt the ſalvation of thy own poor ſoul, that thou remember to ſanctifie the ſabbath, and to keep holy the Lords Day, if not for the love of him, who loved thee ſo well, that he gave his only begotten Sonne, to ſuffer for thy ſin, yet for feare of temporall puniſhment here, and eternall torment hereafter in the world to come.</p>
+            </div>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Oderunt peccaere boni, vertutis honore,</hi>
+                     </l>
+                     <l>
+                        <hi>Oderunt peccaere mali, formidine penae.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>For love of Vertue, good men from ſinne abſtaine,</l>
+                     <l>For feare of puniſhment, the wicked doe refraine.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
